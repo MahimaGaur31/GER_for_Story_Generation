@@ -1,0 +1,29 @@
+Entropy Regularization:
+
+Topic: Speech Recognition (ASR) on LibriSpeech:
+Paper: https://arxiv.org/pdf/1904.11660.pdf
+Link: https://github.com/pytorch/fairseq/tree/main/examples/speech_recognition
+Dataset Link: http://us.openslr.org/resources/12/ 
+
+Topic: Hierarchical Neural Story Generation:
+Paper: https://arxiv.org/pdf/1805.04833.pdf
+Link: https://github.com/pytorch/fairseq/tree/main/examples/stories
+Dataset Link: https://dl.fbaipublicfiles.com/fairseq/data/writingPrompts.tar.gz
+
+
+Topic: Pay Less Attention
+Paper: https://arxiv.org/pdf/1901.10430.pdf
+Link: https://github.com/pytorch/fairseq/tree/main/examples/pay_less_attention_paper
+Dataset Link: In the github link
+
+
+Topic: Back Translation
+Paper: https://arxiv.org/pdf/1808.09381.pdf
+Link: https://github.com/pytorch/fairseq/tree/main/examples/backtranslation
+Dataset Link: http://www.statmt.org/wmt18/translation-task.html
+
+
+Topic: Speech Translation on MuST-C
+Paper: https://arxiv.org/pdf/2004.10234.pdf
+Link: https://github.com/pytorch/fairseq/blob/main/examples/speech_to_text/docs/mustc_example.md
+Dataset Link: https://ict.fbk.eu/must-c-releases/
