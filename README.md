@@ -7,7 +7,6 @@ This project aims to study the effectiveness of using [Generalised Entropy Regul
 # Setup
 
 ## Read and Preprocess Data (SQuAD)
-Author: Anya
 
 Reference: [GauthierDmn's Code Implementation](https://github.com/GauthierDmn/question_answering)
 
